@@ -1,35 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Lucie&fontSize=52&fontColor=93C5FD&fontAlignY=45&desc=｡･:*˚:✧｡&descSize=18&descAlignY=70" />
+<pre>
+˚₊‧ ✧  pat / bioinformatics + code  ✧ ‧₊˚
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Computer+Science+student;Building+foundations+in+bioinformatics;Exploring+data+science+and+software+development" alt="Typing SVG" />
+# patseq
+
+**Computer Science student building toward bioinformatics, data science, and software development.**
+
+Currently learning how programming, algorithms, and data analysis can be used to understand biological sequences and computational biology.
 
 <br>
 
-**Currently learning how programming, algorithms, and data analysis can be used to understand biological sequences and computational biology.**
-
-<br>
-
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=1E3A5F)
-![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=1E3A5F)
-![Data Science](https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=1E3A5F)
-![Computational Biology](https://img.shields.io/badge/Computational%20Biology-E0F2FE?style=for-the-badge&labelColor=1E3A5F)
+![Bioinformatics](https://img.shields.io/badge/BIOINFORMATICS-93C5FD?style=for-the-badge&labelColor=0F172A)
+![Python](https://img.shields.io/badge/PYTHON-BFDBFE?style=for-the-badge&labelColor=0F172A)
+![Data Science](https://img.shields.io/badge/DATA%20SCIENCE-DBEAFE?style=for-the-badge&labelColor=0F172A)
+![Computational Biology](https://img.shields.io/badge/COMPUTATIONAL%20BIOLOGY-E0F2FE?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
-<br>
+---
+
+## ✧ About Me
+
+I am a Computer Science student currently transitioning into bioinformatics.
+
+My focus is on learning how code can be used to analyze biological sequences, solve computational biology problems, and build a foundation for future work in biomedical and biological data.
+
+Right now, I am building proof of consistency through small projects, solved problems, documented learning, and course-based repositories.
+
+---
 
 ## ˚₊‧ Currently Working On ‧₊˚
 
-- Bioinformatics fundamentals through UCSD Bioinformatics coursework
-- Rosalind problems for algorithmic bioinformatics practice
-- DataCamp Associate Data Scientist in Python track
-- Python, pandas, and scientific computing foundations
-- Building a cleaner GitHub portfolio through small but consistent projects
+```text
+01  UCSD Bioinformatics coursework
+02  Rosalind bioinformatics problems
+03  DataCamp Associate Data Scientist in Python
+04  Python, pandas, and scientific computing
+05  Cleaner GitHub portfolio projects
+```
 
-<br>
+---
 
-## ✧ Featured Learning Repositories ✧
+## ✧ Featured Learning Repositories
 
 | Repository | Focus |
 |:---|:---|
@@ -38,7 +52,23 @@
 | **Associate Data Scientist in Python** | DataCamp track exercises and data science practice |
 | **CS50x** | Computer science foundations in C, Python, SQL, Flask, and algorithms |
 
-<br>
+---
+
+## ˚₊‧ Technologies ‧₊˚
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-93C5FD?style=flat-square&labelColor=0F172A)
+![C](https://img.shields.io/badge/C-BFDBFE?style=flat-square&labelColor=0F172A)
+![SQL](https://img.shields.io/badge/SQL-DBEAFE?style=flat-square&labelColor=0F172A)
+![pandas](https://img.shields.io/badge/pandas-E0F2FE?style=flat-square&labelColor=0F172A)
+![NumPy](https://img.shields.io/badge/NumPy-93C5FD?style=flat-square&labelColor=0F172A)
+![Git](https://img.shields.io/badge/Git-BFDBFE?style=flat-square&labelColor=0F172A)
+![GitHub](https://img.shields.io/badge/GitHub-DBEAFE?style=flat-square&labelColor=0F172A)
+
+</div>
+
+---
 
 ## ⋆｡° GitHub Activity °｡⋆
 
@@ -51,26 +81,30 @@
 
 </div>
 
-<br>
+---
 
-## ✧ Learning Direction ✧
+## ✧ Learning Direction
 
-I am currently transitioning from general computer science into bioinformatics, with the long-term goal of applying computational methods to biological and medical problems.
+I am currently moving from general computer science into bioinformatics, with the long-term goal of applying computational methods to biological and medical problems.
 
-My focus right now is not just finishing courses, but building visible proof of consistency: solved problems, documented learning, and small projects that show steady growth.
+My current goal is to build strong foundations first: algorithms, sequence analysis, data science, and scientific programming.
 
-<br>
+---
 
 ## ˚₊‧ Certifications ‧₊˚
 
-- CS50x: Introduction to Computer Science *(to be added)*
-- DataCamp Associate Data Scientist in Python *(in progress)*
-- UCSD Bioinformatics coursework *(in progress)*
+```text
+CS50x: Introduction to Computer Science              to be added
+DataCamp Associate Data Scientist in Python          in progress
+UCSD Bioinformatics coursework                        in progress
+```
 
-<br>
+---
 
 <div align="center">
 
-˚₊‧꒰ა ✧ ໒꒱ ‧₊˚
+<pre>
+｡･:*˚:✧｡  small steps out of a million  ｡✧:˚*:･｡
+</pre>
 
 </div>
