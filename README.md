@@ -19,7 +19,7 @@
 
 ## ✧ About Me
 
-I am a Computer Science student focused on learning how code can be used to analyze biological sequences, solve computational biology problems, and build a foundation for future work in biomedical and biological data. 
+I am a Computer Science student focused on learning how code can be used to analyze biological sequences, solve computational biology problems, and build a foundation for future work in biomedical and biological data.
 
 Right now, I am building proof of consistency through small projects, solved problems, documented learning, and course-based repositories.
 
@@ -27,11 +27,11 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 ## ˚₊‧ Currently Working On ‧₊˚
 
-* ✧ **Coursework:** UCSD Bioinformatics 
-* ⋆ **Problem Solving:** Rosalind bioinformatics problems
-* ⊹ **Track:** DataCamp Associate Data Scientist in Python
-* ˚ **Focus:** Python, pandas, and scientific computing
-* ✦ **Portfolio:** Cleaning and organizing GitHub projects
+- ✧ **Coursework:** UCSD Bioinformatics
+- ✧ **Problem Solving:** Rosalind bioinformatics problems
+- ✧ **Track:** DataCamp Associate Data Scientist in Python
+- ✧ **Focus:** Python, pandas, and scientific computing
+- ✧ **Portfolio:** Cleaning and organizing GitHub projects
 
 ---
 
@@ -71,8 +71,8 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luciedev166&show_icons=true&hide_border=true&hide_bg=true&title_color=60A5FA&icon_color=93C5FD&text_color=BFDBFE&ring_color=93C5FD" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciedev166&layout=compact&hide_border=true&hide_bg=true&title_color=60A5FA&text_color=BFDBFE&langs_count=6" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luciedev166&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=93C5FD&text_color=BFDBFE&ring_color=93C5FD" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciedev166&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=BFDBFE&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -80,10 +80,12 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 ## ✧ Learning Direction & Certifications
 
-My current goal is to build strong foundations first: algorithms, sequence analysis, data science, and scientific programming. 
+My current goal is to build strong foundations first: algorithms, sequence analysis, data science, and scientific programming.
 
 > **CS50x: Introduction to Computer Science** • *Completed*
+>
 > **DataCamp Associate Data Scientist in Python** • *In Progress*
+>
 > **UCSD Bioinformatics Coursework** • *In Progress*
 
 ---
