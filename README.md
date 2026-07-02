@@ -69,8 +69,10 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 <img src="https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000" alt="GitHub Streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luciedev166&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=93C5FD&text_color=BFDBFE&ring_color=93C5FD" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciedev166&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=BFDBFE&langs_count=6" alt="Top Languages" />
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luciedev166&show_icons=true&hide_border=true&hide_bg=true&title_color=60A5FA&icon_color=93C5FD&text_color=BFDBFE&ring_color=93C5FD" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciedev166&layout=compact&hide_border=true&hide_bg=true&title_color=60A5FA&text_color=BFDBFE&langs_count=6" alt="Top Languages" />
 
 </div>
 
