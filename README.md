@@ -1,50 +1,101 @@
 <div align="center">
 
-<blockquote>˚₊‧ ✧  pat / bioinformatics + code  ✧ ‧₊˚</blockquote>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=170&section=header&text=patseq&fontSize=52&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20bioinformatics%20%2B%20code&descSize=16&descAlignY=58" />
 
-# patseq
+<pre>
+˚₊‧ ✧  computer science student • bioinformatics learner • data science in progress  ✧ ‧₊˚
+</pre>
 
-**Computer Science student building toward bioinformatics, data science, and software development.**
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/bioinformatics-93C5FD?style=flat-square&labelColor=0F172A" alt="Bioinformatics" />
-<img src="https://img.shields.io/badge/python-BFDBFE?style=flat-square&labelColor=0F172A" alt="Python" />
-<img src="https://img.shields.io/badge/data%20science-DBEAFE?style=flat-square&labelColor=0F172A" alt="Data Science" />
-<img src="https://img.shields.io/badge/computational%20biology-E0F2FE?style=flat-square&labelColor=0F172A" alt="Computational Biology" />
+## ✧ About Me
+
+I am a Computer Science student building foundations in **bioinformatics**, **data science**, and **software development**.
+
+My current focus is learning how programming, algorithms, and data analysis can be used to understand biological sequences and computational biology.
+
+I am building proof of consistency through small projects, solved problems, documented learning, and organized learning repositories.
+
+<br>
+
+<div align="center">
+
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A)
+![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A)
+![Data Science](https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=0F172A)
+![Computational Biology](https://img.shields.io/badge/Computational%20Biology-E0F2FE?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
 ---
 
-## ✧ About Me
+## ˚₊‧ Current Focus ‧₊˚
 
-I am a Computer Science student focused on learning how code can be used to analyze biological sequences, solve computational biology problems, and build a foundation for future work in biomedical and biological data.
-
-Right now, I am building proof of consistency through small projects, solved problems, documented learning, and course-based repositories.
-
----
-
-## ˚₊‧ Currently Working On ‧₊˚
-
-- ✧ **Coursework:** UCSD Bioinformatics
-- ✧ **Problem Solving:** Rosalind bioinformatics problems
-- ✧ **Track:** DataCamp Associate Data Scientist in Python
-- ✧ **Focus:** Python, pandas, and scientific computing
-- ✧ **Portfolio:** Cleaning and organizing GitHub projects
+```text
+01  Bioinformatics fundamentals
+02  Rosalind computational biology problems
+03  DataCamp Associate Data Scientist in Python
+04  Python, pandas, NumPy, and scientific computing
+05  Clean GitHub portfolio documentation
+```
 
 ---
 
-## ✧ Featured Learning Repositories
+## ✧ Learning Repositories
 
-| Repository | Focus |
-|:---|:---|
-| [**UCSD Bioinformatics**](#) | Foundational bioinformatics algorithms in Python |
-| [**Rosalind Solutions**](#) | Computational biology problem solving |
-| [**Associate Data Scientist**](#) | DataCamp track exercises and data science practice |
-| [**CS50x**](#) | Computer science foundations in C, Python, SQL, Flask, and algorithms |
+<table>
+<tr>
+<td width="50%">
 
-*(Note: Replace the `#` in the table above with your actual repository links!)*
+### UCSD Bioinformatics
+
+Python implementations of foundational bioinformatics algorithms.
+
+**Focus:** pattern matching, k-mers, reverse complements, GC skew, and origin prediction.
+
+<a href="https://github.com/luciedev166/UCSD-Bioinformatics">View repository</a>
+
+</td>
+<td width="50%">
+
+### Rosalind Solutions
+
+Programming challenges for computational biology and algorithmic thinking.
+
+**Focus:** DNA/RNA operations, GC content, Hamming distance, inheritance probability.
+
+<a href="https://github.com/luciedev166/Rosalind-Solutions">View repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Associate Data Scientist in Python
+
+DataCamp track exercises and notes for building data science foundations.
+
+**Focus:** Python, NumPy, pandas, visualization, and statistical thinking.
+
+<a href="https://github.com/luciedev166/Associate-Data-Scientist-in-Python">View repository</a>
+
+</td>
+<td width="50%">
+
+### CS50x
+
+Computer science foundations from Harvard CS50x.
+
+**Focus:** C, Python, SQL, Flask, algorithms, and problem solving.
+
+<a href="https://github.com/luciedev166/cs50-log">View repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,12 +103,13 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-93C5FD?style=flat-square&labelColor=0F172A" alt="Python" />
-<img src="https://img.shields.io/badge/C-BFDBFE?style=flat-square&labelColor=0F172A" alt="C" />
-<img src="https://img.shields.io/badge/SQL-DBEAFE?style=flat-square&labelColor=0F172A" alt="SQL" />
-<img src="https://img.shields.io/badge/pandas-E0F2FE?style=flat-square&labelColor=0F172A" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-93C5FD?style=flat-square&labelColor=0F172A" alt="NumPy" />
-<img src="https://img.shields.io/badge/Git-BFDBFE?style=flat-square&labelColor=0F172A" alt="Git" />
+![Python](https://img.shields.io/badge/Python-93C5FD?style=flat-square&labelColor=0F172A)
+![C](https://img.shields.io/badge/C-BFDBFE?style=flat-square&labelColor=0F172A)
+![SQL](https://img.shields.io/badge/SQL-DBEAFE?style=flat-square&labelColor=0F172A)
+![pandas](https://img.shields.io/badge/pandas-E0F2FE?style=flat-square&labelColor=0F172A)
+![NumPy](https://img.shields.io/badge/NumPy-93C5FD?style=flat-square&labelColor=0F172A)
+![Git](https://img.shields.io/badge/Git-BFDBFE?style=flat-square&labelColor=0F172A)
+![GitHub](https://img.shields.io/badge/GitHub-DBEAFE?style=flat-square&labelColor=0F172A)
 
 </div>
 
@@ -69,7 +121,7 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 <img src="https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000" alt="GitHub Streak" />
 
-<br>
+<br><br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=luciedev166&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=93C5FD&text_color=BFDBFE&ring_color=93C5FD" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciedev166&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=BFDBFE&langs_count=6" alt="Top Languages" />
@@ -78,20 +130,28 @@ Right now, I am building proof of consistency through small projects, solved pro
 
 ---
 
-## ✧ Learning Direction & Certifications
+## ✧ Learning Direction
 
-My current goal is to build strong foundations first: algorithms, sequence analysis, data science, and scientific programming.
+My goal is to build strong foundations first: algorithms, sequence analysis, data science, and scientific programming.
 
-> **CS50x: Introduction to Computer Science** • *Completed*
->
-> **DataCamp Associate Data Scientist in Python** • *In Progress*
->
-> **UCSD Bioinformatics Coursework** • *In Progress*
+I am currently moving from general computer science into bioinformatics, with the long-term goal of applying computational methods to biological and medical problems.
+
+---
+
+## ˚₊‧ Certifications ‧₊˚
+
+```text
+CS50x: Introduction to Computer Science              completed
+DataCamp Associate Data Scientist in Python          in progress
+UCSD Bioinformatics coursework                        in progress
+```
 
 ---
 
 <div align="center">
 
-<blockquote>｡･:*˚:✧｡  small steps, consistent proof  ｡✧:˚*:･｡</blockquote>
+<pre>
+｡･:*˚:✧｡  small steps, consistent proof  ｡✧:˚*:･｡
+</pre>
 
 </div>
