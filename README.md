@@ -128,11 +128,9 @@ I am currently moving from general computer science into bioinformatics, with th
 
 ## ˚₊‧ Certifications ‧₊˚
 
-```text
-CS50x: Introduction to Computer Science              completed
-DataCamp Associate Data Scientist in Python          in progress
-UCSD Bioinformatics coursework                        in progress
-```
+- [CS50x: Introduction to Computer Science](https://certificates.cs50.io/d0d129e1-143d-48ae-be1a-e9b1554ff86f.pdf?size=letter) — completed
+- DataCamp Associate Data Scientist in Python — in progress
+- UCSD Bioinformatics coursework — in progress
 
 ---
 
