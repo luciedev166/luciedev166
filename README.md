@@ -54,6 +54,3 @@ My focus right now is not just finishing courses, but building visible proof of 
 - DataCamp Associate Data Scientist in Python *(in progress)*
 - UCSD Bioinformatics coursework *(in progress)*
 
-## GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=93C5FD&currStreakLabel=60A5FA)
