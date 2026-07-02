@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Soft gradient header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,50:BFDBFE,100:93C5FD&height=180&section=header&text=Lucie&fontSize=48&fontColor=1E3A5F&fontAlignY=40&desc=｡･:*˚:✧｡&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Lucie&fontSize=52&fontColor=93C5FD&fontAlignY=45&desc=｡･:*˚:✧｡&descSize=18&descAlignY=70" />
 
-<!-- Animated soft-blue subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=560&lines=Computer+Science+student;Building+foundations+in+bioinformatics;Exploring+data+science+%26+software+dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Computer+Science+student;Building+foundations+in+bioinformatics;Exploring+data+science+and+software+development" alt="Typing SVG" />
 
 <br>
 
@@ -23,17 +21,15 @@
 
 ## ˚₊‧ Currently Working On ‧₊˚
 
-- 🧬 Bioinformatics fundamentals through UCSD Bioinformatics coursework
-- 🧩 Rosalind problems for algorithmic bioinformatics practice
-- 📊 DataCamp Associate Data Scientist in Python track
-- 🐍 Python, pandas, and scientific computing foundations
-- 🌱 Building a cleaner GitHub portfolio through small but consistent projects
+- Bioinformatics fundamentals through UCSD Bioinformatics coursework
+- Rosalind problems for algorithmic bioinformatics practice
+- DataCamp Associate Data Scientist in Python track
+- Python, pandas, and scientific computing foundations
+- Building a cleaner GitHub portfolio through small but consistent projects
 
 <br>
 
 ## ✧ Featured Learning Repositories ✧
-
-<div align="center">
 
 | Repository | Focus |
 |:---|:---|
@@ -41,8 +37,6 @@
 | **Rosalind Solutions** | Computational biology problem solving |
 | **Associate Data Scientist in Python** | DataCamp track exercises and data science practice |
 | **CS50x** | Computer science foundations in C, Python, SQL, Flask, and algorithms |
-
-</div>
 
 <br>
 
@@ -69,14 +63,14 @@ My focus right now is not just finishing courses, but building visible proof of 
 
 ## ˚₊‧ Certifications ‧₊˚
 
-- 🎓 CS50x: Introduction to Computer Science *(to be added)*
-- 🎓 DataCamp Associate Data Scientist in Python *(in progress)*
-- 🎓 UCSD Bioinformatics coursework *(in progress)*
+- CS50x: Introduction to Computer Science *(to be added)*
+- DataCamp Associate Data Scientist in Python *(in progress)*
+- UCSD Bioinformatics coursework *(in progress)*
 
 <br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,50:BFDBFE,100:E0F2FE&height=100&section=footer" />
+˚₊‧꒰ა ✧ ໒꒱ ‧₊˚
 
 </div>
