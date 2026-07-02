@@ -1,14 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=170&section=header&text=patseq&fontSize=52&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20bioinformatics%20%2B%20code&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=patseq&fontSize=50&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20bioinformatics%20%2B%20code&descSize=15&descAlignY=58" />
 
 <pre>
 ˚₊‧ ✧  computer science student • bioinformatics learner • data science in progress  ✧ ‧₊˚
 </pre>
 
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A)
+![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A)
+![Data Science](https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=0F172A)
+![Computational Biology](https://img.shields.io/badge/Computational%20Biology-E0F2FE?style=for-the-badge&labelColor=0F172A)
+
 </div>
 
-<br>
+---
 
 ## ✧ About Me
 
@@ -17,17 +22,6 @@ I am a Computer Science student building foundations in **bioinformatics**, **da
 My current focus is learning how programming, algorithms, and data analysis can be used to understand biological sequences and computational biology.
 
 I am building proof of consistency through small projects, solved problems, documented learning, and organized learning repositories.
-
-<br>
-
-<div align="center">
-
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A)
-![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A)
-![Data Science](https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=0F172A)
-![Computational Biology](https://img.shields.io/badge/Computational%20Biology-E0F2FE?style=for-the-badge&labelColor=0F172A)
-
-</div>
 
 ---
 
@@ -99,7 +93,7 @@ Computer science foundations from Harvard CS50x.
 
 ---
 
-## ˚₊‧ Technologies ‧₊˚
+## ˚₊‧ Tools & Technologies ‧₊˚
 
 <div align="center">
 
@@ -109,7 +103,6 @@ Computer science foundations from Harvard CS50x.
 ![pandas](https://img.shields.io/badge/pandas-E0F2FE?style=flat-square&labelColor=0F172A)
 ![NumPy](https://img.shields.io/badge/NumPy-93C5FD?style=flat-square&labelColor=0F172A)
 ![Git](https://img.shields.io/badge/Git-BFDBFE?style=flat-square&labelColor=0F172A)
-![GitHub](https://img.shields.io/badge/GitHub-DBEAFE?style=flat-square&labelColor=0F172A)
 
 </div>
 
@@ -120,11 +113,6 @@ Computer science foundations from Harvard CS50x.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000" alt="GitHub Streak" />
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luciedev166&show_icons=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=93C5FD&text_color=BFDBFE&ring_color=93C5FD" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciedev166&layout=compact&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=BFDBFE&langs_count=6" alt="Top Languages" />
 
 </div>
 
