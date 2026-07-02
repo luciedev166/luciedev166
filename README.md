@@ -8,8 +8,8 @@
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-93C5FD?style=for-the-badge&labelColor=0F172A)
 ![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-DBEAFE?style=for-the-badge&labelColor=0F172A)
-![Computational Biology](https://img.shields.io/badge/Computational%20Biology-E0F2FE?style=for-the-badge&labelColor=0F172A)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-DBEAFE?style=for-the-badge&labelColor=0F172A)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-E0F2FE?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
@@ -17,9 +17,9 @@
 
 ## ✧ About Me
 
-I am a Computer Science student building foundations in **data science**, **bioinformatics**, and **software development**.
+I am a Computer Science student building foundations in **data science**, **machine learning**, and **bioinformatics**.
 
-My current focus is learning how Python, algorithms, and data analysis can be used to understand patterns in biological data.
+My current focus is learning how Python, algorithms, statistics, and data analysis can be used to understand patterns in biological data.
 
 I am building proof of consistency through small projects, solved problems, documented learning, and organized learning repositories.
 
@@ -30,9 +30,9 @@ I am building proof of consistency through small projects, solved problems, docu
 ```text
 01  Data science foundations in Python
 02  pandas, NumPy, visualization, and statistics
-03  Bioinformatics as a domain focus
-04  Rosalind computational biology problems
-05  Clean GitHub portfolio documentation
+03  Machine learning fundamentals
+04  Bioinformatics as a domain focus
+05  Rosalind computational biology problems
 ```
 
 ---
@@ -83,7 +83,7 @@ Programming challenges for computational biology and algorithmic thinking.
 
 Computer science foundations from Harvard CS50x.
 
-**Focus:** C, Python, SQL, Flask, algorithms, and problem solving.
+**Focus:** C, Python, SQL, algorithms, and problem solving.
 
 <a href="https://github.com/luciedev166/cs50-log">View repository</a>
 
@@ -120,9 +120,9 @@ Computer science foundations from Harvard CS50x.
 
 ## ✧ Learning Direction
 
-My goal is to build strong foundations first: Python, statistics, data analysis, algorithms, and scientific programming.
+My goal is to build strong foundations first: Python, statistics, data analysis, algorithms, and machine learning.
 
-I am especially interested in applying data science to biological and medical problems, with bioinformatics as my long-term domain focus.
+I am especially interested in applying data science and machine learning to biological and medical problems, with bioinformatics as my long-term domain focus.
 
 ---
 
