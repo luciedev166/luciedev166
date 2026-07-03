@@ -127,9 +127,4 @@ Computer science foundations from Harvard CS50x.
 ---
 
 <div align="center">
-
-<pre>
-｡･:*˚:✧｡  data first, biology focused, built consistently  ｡✧:˚*:･｡
-</pre>
-
 </div>
