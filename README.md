@@ -118,14 +118,6 @@ Computer science foundations from Harvard CS50x.
 
 ---
 
-## ✧ Learning Direction
-
-My goal is to build strong foundations first: Python, statistics, data analysis, algorithms, and machine learning.
-
-I am especially interested in applying data science and machine learning to biological and medical problems, with bioinformatics as my long-term domain focus.
-
----
-
 ## ˚₊‧ Certifications ‧₊˚
 
 - [CS50x: Introduction to Computer Science](https://certificates.cs50.io/d0d129e1-143d-48ae-be1a-e9b1554ff86f.pdf?size=letter) — completed
