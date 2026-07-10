@@ -21,8 +21,6 @@ I am a Computer Science student building foundations in **data science**, **mach
 
 My current focus is learning how Python, algorithms, statistics, and data analysis can be used to understand patterns in biological data.
 
-I recently completed **Biology Meets Programming: Bioinformatics for Beginners** from the University of California San Diego and am now studying **Finding Hidden Messages in DNA (Bioinformatics I)** as part of UC San Diego's Bioinformatics Specialization.
-
 I am building proof of consistency through small projects, solved problems, documented learning, and organized learning repositories.
 
 ---
