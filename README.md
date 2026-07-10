@@ -21,6 +21,8 @@ I am a Computer Science student building foundations in **data science**, **mach
 
 My current focus is learning how Python, algorithms, statistics, and data analysis can be used to understand patterns in biological data.
 
+I recently completed **Biology Meets Programming: Bioinformatics for Beginners** from the University of California San Diego and am now studying **Finding Hidden Messages in DNA (Bioinformatics I)** as part of UC San Diego's Bioinformatics Specialization.
+
 I am building proof of consistency through small projects, solved problems, documented learning, and organized learning repositories.
 
 ---
@@ -31,7 +33,7 @@ I am building proof of consistency through small projects, solved problems, docu
 01  Data science foundations in Python
 02  pandas, NumPy, visualization, and statistics
 03  Machine learning fundamentals
-04  Bioinformatics as a domain focus
+04  Finding Hidden Messages in DNA (Bioinformatics I)
 05  Rosalind computational biology problems
 ```
 
@@ -56,9 +58,9 @@ DataCamp track exercises and notes for building data science foundations.
 
 ### UCSD Bioinformatics
 
-Python implementations of foundational bioinformatics algorithms.
+Python implementations of foundational bioinformatics algorithms from my UC San Diego coursework.
 
-**Focus:** pattern matching, k-mers, reverse complements, GC skew, and origin prediction.
+**Focus:** pattern matching, k-mers, GC skew, origin prediction, motif discovery, randomized motif search, and Gibbs sampling.
 
 <a href="https://github.com/luciedev166/UCSD-Bioinformatics">View repository</a>
 
@@ -121,8 +123,10 @@ Computer science foundations from Harvard CS50x.
 ## ˚₊‧ Certifications ‧₊˚
 
 - [CS50x: Introduction to Computer Science](https://certificates.cs50.io/d0d129e1-143d-48ae-be1a-e9b1554ff86f.pdf?size=letter) — completed
+- [Biology Meets Programming: Bioinformatics for Beginners](https://coursera.org/share/080f07c4b751f2e3c1b6a7b69f1d55a0) — University of California San Diego — completed
+- CS50P: Introduction to Programming with Python — in progress
 - DataCamp Associate Data Scientist in Python — in progress
-- UCSD Bioinformatics coursework — in progress
+- Finding Hidden Messages in DNA (Bioinformatics I) — UC San Diego Bioinformatics Specialization — in progress
 
 ---
 
