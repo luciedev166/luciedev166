@@ -25,6 +25,34 @@ I am building proof of consistency through small projects, solved problems, docu
 
 ---
 
+## ✧ Featured Project
+
+<table>
+<tr>
+<td width="100%">
+
+### E. coli oriC Finder
+
+A Python bioinformatics project that predicts the likely origin-of-replication neighborhood in the *Escherichia coli* K-12 MG1655 genome.
+
+The program processes a complete FASTA genome, calculates cumulative GC skew, locates minimum-skew positions, extracts a candidate region, and searches for DnaA-box-like motifs in both orientations using Hamming distance.
+
+**Methods:** Python, FASTA processing, GC skew, reverse complements, approximate pattern matching, CSV output, and Matplotlib visualization.
+
+**Result:** Identified a candidate `oriC` neighborhood near `3.925 Mb` and detected six DnaA-box-like matches within the extracted region.
+
+<a href="https://github.com/luciedev166/ecoli-ori-finder">View project</a>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/luciedev166/ecoli-ori-finder/main/outputs/gc_skew_plot.png" alt="E. coli cumulative GC-skew plot" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## ˚₊‧ Current Focus ‧₊˚
 
 ```text
