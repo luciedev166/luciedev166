@@ -37,11 +37,9 @@ A Python bioinformatics project that uses cumulative GC skew and approximate Dna
 
 <a href="https://github.com/luciedev166/ecoli-ori-finder"><b>View project</b></a>
 
-<br><br>
-
 <img width="70%" src="https://raw.githubusercontent.com/luciedev166/ecoli-ori-finder/main/outputs/gc_skew_plot.png" alt="E. coli cumulative GC-skew plot" />
 
-<br><br><br>
+<br>
 
 ### B. subtilis oriC Finder
 
@@ -50,8 +48,6 @@ A follow-up Python bioinformatics project that tests whether the same cumulative
 **Upgrade:** Adds circular candidate-region extraction and applies the pipeline to a phylogenetically different bacterial genome.
 
 <a href="https://github.com/luciedev166/bsubtilis-ori-finder"><b>View project</b></a>
-
-<br><br>
 
 <img width="70%" src="https://raw.githubusercontent.com/luciedev166/bsubtilis-ori-finder/main/outputs/gc_skew_plot.png" alt="Bacillus subtilis cumulative GC-skew plot" />
 
@@ -159,8 +155,3 @@ Computer science foundations from Harvard CS50x.
 - CS50P: Introduction to Programming with Python — in progress
 - DataCamp Associate Data Scientist in Python — in progress
 - Finding Hidden Messages in DNA (Bioinformatics I) — UC San Diego Bioinformatics Specialization — in progress
-
----
-
-<div align="center">
-</div>
