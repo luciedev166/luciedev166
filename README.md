@@ -25,7 +25,7 @@ I am building proof of consistency through small projects, solved problems, docu
 
 ---
 
-## ✧ Featured Project
+## ✧ Featured Projects
 
 <div align="center">
 
@@ -40,6 +40,20 @@ A Python bioinformatics project that uses cumulative GC skew and approximate Dna
 <br><br>
 
 <img width="70%" src="https://raw.githubusercontent.com/luciedev166/ecoli-ori-finder/main/outputs/gc_skew_plot.png" alt="E. coli cumulative GC-skew plot" />
+
+<br><br><br>
+
+### B. subtilis oriC Finder
+
+A follow-up Python bioinformatics project that tests whether the same cumulative GC-skew and approximate DnaA-box workflow can identify a candidate `oriC` neighborhood in the *Bacillus subtilis* strain 168 genome.
+
+**Upgrade:** Adds circular candidate-region extraction and applies the pipeline to a phylogenetically different bacterial genome.
+
+<a href="https://github.com/luciedev166/bsubtilis-ori-finder"><b>View project</b></a>
+
+<br><br>
+
+<img width="70%" src="https://raw.githubusercontent.com/luciedev166/bsubtilis-ori-finder/main/outputs/gc_skew_plot.png" alt="Bacillus subtilis cumulative GC-skew plot" />
 
 </div>
 
