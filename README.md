@@ -29,6 +29,16 @@ I am building proof of consistency through small projects, solved problems, docu
 
 <div align="center">
 
+### ATM ClinVar + gnomAD VUS Explorer
+
+A Streamlit application that combines ClinVar clinical annotations with gnomAD population-frequency evidence to explore ATM missense variants of uncertain significance (VUS). Educational, non-diagnostic evidence explorer, not a clinical tool.
+
+**Result:** Matched 1,474 of 4,534 ATM missense VUS candidates directly in gnomAD (32.51%) using exact GRCh38 variant identities, with searchable and filterable evidence for every variant.
+
+<a href="https://github.com/luciedev166/clinvar-gnomad-vus-analyzer"><b>View project</b></a>
+
+<br>
+
 ### E. coli oriC Finder
 
 A Python bioinformatics project that uses cumulative GC skew and approximate DnaA-box matching to identify the likely `oriC` neighborhood in the *E. coli* K-12 MG1655 genome.
