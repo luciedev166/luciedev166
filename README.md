@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=patseq&fontSize=50&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20data%20science%20%2B%20bioinformatics&descSize=15&descAlignY=58](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=patseq&fontSize=50&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20data%20science%20%2B%20bioinformatics&descSize=15&descAlignY=58)" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=patseq&fontSize=50&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20data%20science%20%2B%20bioinformatics&descSize=15&descAlignY=58" />
 
 <pre>
 ˚₊‧ ✧  computer science student • project-based learner • bioinformatics-focused  ✧ ‧₊˚
@@ -36,9 +36,8 @@ I learn primarily through project-based study: building complete pipelines, ques
     </td>
     <td width="55%" valign="top">
       <h3>ATM ClinVar + gnomAD VUS Explorer</h3>
-      <p>An educational Streamlit application that combines ClinVar clinical annotations with gnomAD population-frequency evidence to explore <b>ATM missense variants of uncertain significance</b>.</p>
-      <p>The project includes an end-to-end pipeline for filtering ClinVar records, resolving exact GRCh38 genomic identities, integrating gnomAD population evidence, validating biological values, and assembling an app-ready dataset.</p>
-      <p><b>Result:</b> Processed 4,534 eligible ATM missense VUS candidates and matched 1,474 variants directly in gnomAD using exact <code>CHROM-POS-REF-ALT</code> identifiers.</p>
+      <p>A Streamlit app integrating ClinVar clinical annotations with gnomAD population frequencies to explore <b>ATM missense variants of uncertain significance (VUS)</b>.</p>
+      <p><b>Result:</b> Built an end-to-end pipeline resolving exact <code>CHROM-POS-REF-ALT</code> genomic identifiers to match 1,474 variants.</p>
       <a href="https://github.com/luciedev166/clinvar-gnomad-vus-analyzer"><b>View project ↗</b></a>
     </td>
   </tr>
@@ -52,8 +51,8 @@ I learn primarily through project-based study: building complete pipelines, ques
     <td width="55%" valign="top">
       <br>
       <h3>E. coli oriC Finder</h3>
-      <p>A Python bioinformatics project that uses cumulative GC skew and approximate DnaA-box matching to identify the likely <code>oriC</code> neighborhood in the <i>E. coli</i> K-12 MG1655 genome.</p>
-      <p><b>Result:</b> Located a candidate region near <code>3.925 Mb</code> and detected six DnaA-box-like matches.</p>
+      <p>A Python project using cumulative GC skew and approximate DnaA-box matching to identify the likely <code>oriC</code> neighborhood in the <i>E. coli</i> K-12 genome.</p>
+      <p><b>Result:</b> Located a candidate region near <code>3.925 Mb</code> and successfully detected six DnaA-box-like matches.</p>
       <a href="https://github.com/luciedev166/ecoli-ori-finder"><b>View project ↗</b></a>
     </td>
   </tr>
@@ -67,8 +66,8 @@ I learn primarily through project-based study: building complete pipelines, ques
     <td width="55%" valign="top">
       <br>
       <h3>B. subtilis oriC Finder</h3>
-      <p>A follow-up Python bioinformatics project that applies the same cumulative GC-skew and approximate DnaA-box workflow to the <i>Bacillus subtilis</i> strain 168 genome.</p>
-      <p><b>Upgrade:</b> Adds circular candidate-region extraction and tests the workflow on a phylogenetically different bacterial genome.</p>
+      <p>A follow-up Python workflow applying cumulative GC-skew and DnaA-box matching to the <i>Bacillus subtilis</i> strain 168 genome.</p>
+      <p><b>Upgrade:</b> Added circular candidate-region extraction and validated the logic on a different bacterial lineage.</p>
       <a href="https://github.com/luciedev166/bsubtilis-ori-finder"><b>View project ↗</b></a>
     </td>
   </tr>
@@ -99,7 +98,7 @@ I learn primarily through project-based study: building complete pipelines, ques
 ### 🧬 UCSD Bioinformatics
 Python implementations of foundational bioinformatics algorithms from my UC San Diego coursework.
 
-**Focus:** Pattern matching, k-mers, GC skew, origin prediction, motif discovery, randomized motif search, and Gibbs sampling.
+**Focus:** Pattern matching, k-mers, GC skew, origin prediction, motif discovery, and Gibbs sampling.
 
 <a href="https://github.com/luciedev166/UCSD-Bioinformatics">View repository ↗</a>
 </td>
@@ -107,9 +106,9 @@ Python implementations of foundational bioinformatics algorithms from my UC San 
 <td width="50%" valign="top">
 
 ### 🧪 Rosalind Solutions
-Programming challenges for computational biology and algorithmic problem-solving.
+Python solutions to programming challenges focused on computational biology and algorithmic problem-solving.
 
-**Focus:** DNA and RNA operations, sequence processing, GC content, Hamming distance, inheritance probability, and protein translation.
+**Focus:** DNA and RNA operations, sequence processing, GC content, Hamming distance, and protein translation.
 
 <a href="https://github.com/luciedev166/Rosalind-Solutions">View repository ↗</a>
 </td>
@@ -119,19 +118,19 @@ Programming challenges for computational biology and algorithmic problem-solving
 <td width="50%" valign="top">
 
 ### 📊 Associate Data Scientist
-DataCamp track exercises and notes for developing practical data science foundations.
+Curated exercises and notes for developing practical foundations in data science and analytics.
 
-**Focus:** Python, NumPy, pandas, visualization, statistics, and analytical thinking.
+**Focus:** Python, NumPy, pandas, visualization, applied statistics, and analytical thinking.
 
 <a href="https://github.com/luciedev166/Associate-Data-Scientist-in-Python">View repository ↗</a>
 </td>
 
 <td width="50%" valign="top">
 
-### 💻 CS50x
-Computer science foundations developed through Harvard's CS50x course.
+### 💻 CS50x & CS50P
+Core computer science foundations developed through Harvard's intensive CS50 programming courses.
 
-**Focus:** C, Python, SQL, algorithms, memory, data structures, and problem-solving.
+**Focus:** C, Python, SQL, algorithms, memory, data structures, and foundational problem-solving.
 
 <a href="https://github.com/luciedev166/cs50-log">View repository ↗</a>
 </td>
@@ -184,7 +183,7 @@ Computer science foundations developed through Harvard's CS50x course.
 <div align="center">
 
 <img
-  src="[https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000](https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000)"
+  src="https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000"
   alt="GitHub Streak"
 />
 
@@ -203,3 +202,5 @@ Computer science foundations developed through Harvard's CS50x course.
 - Finding Hidden Messages in DNA (Bioinformatics I) — *University of California San Diego*
 - Associate Data Scientist in Python — *DataCamp*
 ```eof
+
+How does that feel? The "visual weight" should be much smoother as you scroll down the page now!
