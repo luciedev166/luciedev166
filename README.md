@@ -203,4 +203,3 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 - Associate Data Scientist in Python — *DataCamp*
 ```eof
 
-How does that feel? The "visual weight" should be much smoother as you scroll down the page now!
