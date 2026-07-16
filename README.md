@@ -17,9 +17,9 @@
 
 ## ✧ About Me
 
-I'm a Computer Science undergraduate focused on bioinformatics and data science, working toward computational cancer genomics research.
+I'm a 2nd Year Computer Science undergraduate focusing on bioinformatics and data science, working towards computational cancer genomics research ;D
 
-My projects so far reflect that direction: interpreting clinical variants, working with population genetics data, and analyzing genome structure through code.
+My project so far are based on public genomic datasets, but I am working on research software development soon!
 
 ---
 
