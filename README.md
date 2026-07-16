@@ -142,25 +142,25 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 <br>
 <b>Languages</b><br>
-<img src="https://img.shields.io/badge/Python-93C5FD?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=c&logoColor=1E3A8A" alt="C" />
-<img src="https://img.shields.io/badge/PHP-DBEAFE?style=for-the-badge&labelColor=0F172A&logo=php&logoColor=1E3A8A" alt="PHP" />
-<img src="https://img.shields.io/badge/HTML5-E0F2FE?style=for-the-badge&labelColor=0F172A&logo=html5&logoColor=1E3A8A" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-93C5FD?style=for-the-badge&labelColor=0F172A&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=sqlite&logoColor=1E3A8A" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 <br><br>
 
 <b>Data & Scientific Computing</b><br>
-<img src="https://img.shields.io/badge/pandas-93C5FD?style=for-the-badge&labelColor=0F172A&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=numpy&logoColor=1E3A8A" alt="NumPy" />
-<img src="https://img.shields.io/badge/Streamlit-DBEAFE?style=for-the-badge&labelColor=0F172A&logo=streamlit&logoColor=1E3A8A" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Jupyter-E0F2FE?style=for-the-badge&labelColor=0F172A&logo=jupyter&logoColor=1E3A8A" alt="Jupyter" />
+<img src="https://img.shields.io/badge/pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <br><br>
 
 <b>Applications & Workflow</b><br>
-<img src="https://img.shields.io/badge/Git-93C5FD?style=for-the-badge&labelColor=0F172A&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=1E3A8A" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-DBEAFE?style=for-the-badge&labelColor=0F172A&logo=visual-studio-code&logoColor=1E3A8A" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 </div>
 
