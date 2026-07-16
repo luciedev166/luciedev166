@@ -136,26 +136,31 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ---
 
-## ˚₊‧ Tools & Technologies ‧₊˚
+˚₊‧ Tools & Technologies ‧₊˚
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-93C5FD?style=flat-square&labelColor=0F172A&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-BFDBFE?style=flat-square&labelColor=0F172A&logo=c&logoColor=1E3A8A)
-![SQL](https://img.shields.io/badge/SQL-DBEAFE?style=flat-square&labelColor=0F172A&logo=sqlite&logoColor=1E3A8A)
+<br>
+<b>Languages</b><br>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+<br><br>
 
-### Data & Scientific Computing
-![pandas](https://img.shields.io/badge/pandas-93C5FD?style=flat-square&labelColor=0F172A&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-BFDBFE?style=flat-square&labelColor=0F172A&logo=numpy&logoColor=1E3A8A)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-DBEAFE?style=flat-square&labelColor=0F172A)
-![Jupyter](https://img.shields.io/badge/Jupyter-E0F2FE?style=flat-square&labelColor=0F172A&logo=jupyter&logoColor=1E3A8A)
+<b>Data & Scientific Computing</b><br>
+<img src="https://img.shields.io/badge/pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<br><br>
 
-### Applications & Workflow
-![Streamlit](https://img.shields.io/badge/Streamlit-93C5FD?style=flat-square&labelColor=0F172A&logo=streamlit&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-BFDBFE?style=flat-square&labelColor=0F172A&logo=graphql&logoColor=1E3A8A)
-![Git](https://img.shields.io/badge/Git-DBEAFE?style=flat-square&labelColor=0F172A&logo=git&logoColor=1E3A8A)
-![GitHub](https://img.shields.io/badge/GitHub-E0F2FE?style=flat-square&labelColor=0F172A&logo=github&logoColor=1E3A8A)
+<b>Applications & Workflow</b><br>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 </div>
 
