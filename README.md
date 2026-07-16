@@ -124,4 +124,4 @@ Biology Meets Programming: Bioinformatics for Beginners — University of Califo
 ⏳ In Progress
 CS50P: Introduction to Programming with Python — Harvard University
 Finding Hidden Messages in DNA (Bioinformatics I) — University of California San Diego
-Associate Data Scientist in Python — DataCamp 
+Associate Data Scientist in Python — DataCamp   
