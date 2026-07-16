@@ -13,7 +13,7 @@
 
 </div>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ✧ About Me
 
@@ -21,7 +21,7 @@ I'm a Computer Science undergraduate focused on bioinformatics and data science,
 
 My projects so far reflect that direction: interpreting clinical variants, working with population genetics data, and analyzing genome structure through code.
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ✧ Featured Projects
 
@@ -71,7 +71,7 @@ My projects so far reflect that direction: interpreting clinical variants, worki
   </tr>
 </table>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ˚₊‧ Current Focus ‧₊˚
 
@@ -84,7 +84,7 @@ My projects so far reflect that direction: interpreting clinical variants, worki
 - **05** &nbsp; Streamlit applications for scientific data exploration
 - **06** &nbsp; Building toward computational cancer genomics research
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ✧ Learning Repositories
 
@@ -134,7 +134,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 </tr>
 </table>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ˚₊‧ Tools & Technologies ‧₊˚
 
@@ -164,7 +164,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 </div>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ⋆｡° GitHub Activity °｡⋆
 
@@ -177,7 +177,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 </div>
 
-<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:1E3A8A,100:93C5FD&height=3" />
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
 
 ## ˚₊‧ Courses & Certifications ‧₊˚
 
