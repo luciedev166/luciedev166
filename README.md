@@ -19,7 +19,7 @@
 
 I'm a 2nd Year Computer Science undergraduate focusing on bioinformatics and data science while working towards computational cancer genomics research ;D
 
-My project so far are based on public genomic datasets, but I plan to work on research software development soon!
+My projects so far are based on public genomic datasets, but I plan to work on research software development soon!
 
 ---
 
