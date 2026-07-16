@@ -1,29 +1,14 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=patseq&fontSize=50&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20data%20science%20%2B%20bioinformatics&descSize=15&descAlignY=58" />
-
 <pre>
 ˚₊‧ ✧  computer science student • learns by building projects • bioinformatics focus  ✧ ‧₊˚
 </pre>
 
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A)
-![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=1E3A8A)
-![Data Science](https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=0F172A)
-![Streamlit](https://img.shields.io/badge/Streamlit-E0F2FE?style=for-the-badge&labelColor=0F172A&logo=streamlit&logoColor=1E3A8A)
 
-</div>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
-
-## ✧ About Me
-
+</div>✧ About Me
 I'm a Computer Science undergraduate focused on bioinformatics and data science, working toward computational cancer genomics research.
-
 My projects so far reflect that direction: interpreting clinical variants, working with population genetics data, and analyzing genome structure through code.
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
-
-## ✧ Featured Projects
+✧ Featured Projects
 
 <table>
   <tr>
@@ -69,123 +54,74 @@ My projects so far reflect that direction: interpreting clinical variants, worki
       <a href="https://github.com/luciedev166/bsubtilis-ori-finder"><b>View project ↗</b></a>
     </td>
   </tr>
-</table>
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
-
-## ˚₊‧ Current Focus ‧₊˚
-
-> 🔭 **Currently exploring and building:**
-
-- **01** &nbsp; Bioinformatics software projects in Python
-- **02** &nbsp; Genomic data processing and biological database integration (ClinVar, gnomAD)
-- **03** &nbsp; Algorithms for sequence analysis: motif discovery, GC skew, origin prediction
-- **04** &nbsp; pandas, NumPy, visualization, and statistical thinking
-- **05** &nbsp; Streamlit applications for scientific data exploration
-- **06** &nbsp; Building toward computational cancer genomics research
-
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
-
-## ✧ Learning Repositories
+</table>˚₊‧ Current Focus ‧₊˚
+🔭 Currently exploring and building:
+01   Bioinformatics software projects in Python
+02   Genomic data processing and biological database integration (ClinVar, gnomAD)
+03   Algorithms for sequence analysis: motif discovery, GC skew, origin prediction
+04   pandas, NumPy, visualization, and statistical thinking
+05   Streamlit applications for scientific data exploration
+06   Building toward computational cancer genomics research
+✧ Learning Repositories
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧬 UCSD Bioinformatics
+<td width="50%" valign="top">🧬 UCSD Bioinformatics
 Python implementations of foundational bioinformatics algorithms from my UC San Diego coursework.
-
-**Focus:** Pattern matching, k-mers, GC skew, origin prediction, motif discovery, and Gibbs sampling.
-
+Focus: Pattern matching, k-mers, GC skew, origin prediction, motif discovery, and Gibbs sampling.
 <a href="https://github.com/luciedev166/UCSD-Bioinformatics">View repository ↗</a>
+
+
 </td>
-
-<td width="50%" valign="top">
-
-### 🧪 Rosalind Solutions
+<td width="50%" valign="top">🧪 Rosalind Solutions
 Python solutions to programming challenges focused on computational biology and algorithmic problem solving.
-
-**Focus:** DNA and RNA operations, sequence processing, GC content, Hamming distance, and protein translation.
-
+Focus: DNA and RNA operations, sequence processing, GC content, Hamming distance, and protein translation.
 <a href="https://github.com/luciedev166/Rosalind-Solutions">View repository ↗</a>
+
+
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-### 📊 Associate Data Scientist
+<td width="50%" valign="top">📊 Associate Data Scientist
 Curated exercises and notes for developing practical foundations in data science and analytics.
-
-**Focus:** Python, NumPy, pandas, visualization, applied statistics, and analytical thinking.
-
+Focus: Python, NumPy, pandas, visualization, applied statistics, and analytical thinking.
 <a href="https://github.com/luciedev166/Associate-Data-Scientist-in-Python">View repository ↗</a>
+
+
 </td>
-
-<td width="50%" valign="top">
-
-### 💻 CS50x & CS50P
+<td width="50%" valign="top">💻 CS50x & CS50P
 Core computer science foundations developed through Harvard's intensive CS50 programming courses.
-
-**Focus:** C, Python, SQL, algorithms, memory, data structures, and foundational problem solving.
-
+Focus: C, Python, SQL, algorithms, memory, data structures, and foundational problem solving.
 <a href="https://github.com/luciedev166/cs50-log">View repository ↗</a>
+
+
 </td>
 </tr>
-</table>
+</table>˚₊‧ Tools & Technologies ‧₊˚
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
+<div align="center">Languages
 
-## ˚₊‧ Tools & Technologies ‧₊˚
 
-<div align="center">
+Data & Scientific Computing
 
-<br>
-<b>Languages</b><br>
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-<br><br>
 
-<b>Data & Scientific Computing</b><br>
-<img src="https://img.shields.io/badge/pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Jupyter-0F172A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<br><br>
+Applications & Workflow
 
-<b>Applications & Workflow</b><br>
-<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
-</div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
+</div>⋆｡° GitHub Activity °｡⋆
 
-## ⋆｡° GitHub Activity °｡⋆
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000"
-  alt="GitHub Streak"
+<div align="center"><img
+src="https://streak-stats.demolab.com?user=luciedev166&theme=transparent&hide_border=true&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=BFDBFE&currStreakNum=60A5FA&sideNums=60A5FA&background=00000000"
+alt="GitHub Streak"
 />
 
-</div>
 
-<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=93C5FD&height=2" />
-
-## ˚₊‧ Courses & Certifications ‧₊˚
-
-### 🏆 Completed
-- [CS50x: Introduction to Computer Science](https://certificates.cs50.io/d0d129e1-143d-48ae-be1a-e9b1554ff86f.pdf?size=letter) — *Harvard University*
-- [Biology Meets Programming: Bioinformatics for Beginners](https://coursera.org/share/080f07c4b751f2e3c1b6a7b69f1d55a0) — *University of California San Diego*
-
-### ⏳ In Progress
-- CS50P: Introduction to Programming with Python — *Harvard University*
-- Finding Hidden Messages in DNA (Bioinformatics I) — *University of California San Diego*
-- Associate Data Scientist in Python — *DataCamp*
+</div>˚₊‧ Courses & Certifications ‧₊˚
+🏆 Completed
+CS50x: Introduction to Computer Science — Harvard University
+Biology Meets Programming: Bioinformatics for Beginners — University of California San Diego
+⏳ In Progress
+CS50P: Introduction to Programming with Python — Harvard University
+Finding Hidden Messages in DNA (Bioinformatics I) — University of California San Diego
+Associate Data Scientist in Python — DataCamp 
