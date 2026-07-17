@@ -3,8 +3,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=patseq&fontSize=50&fontColor=E0F2FE&fontAlignY=38&desc=pat%20/%20data%20science%20%2B%20bioinformatics&descSize=15&descAlignY=58" />
 
 <pre>
-˚₊‧ ✧  computer science student • learns by building projects • bioinformatics focus  ✧ ‧₊˚
+˚₊‧ ✧  computer science student • engineering data pipelines for genomics • computational biology  ✧ ‧₊˚
 </pre>
+
 
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A)
 ![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=1E3A8A)
