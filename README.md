@@ -66,7 +66,7 @@ My projects so far are based on public genomic datasets, but I plan to work on r
       <br>
       <h3>B. subtilis oriC Finder</h3>
       <p>Another Python workflow applying cumulative GC skew and DnaA box matching to the <i>Bacillus subtilis</i> strain 168 genome.</p>
-      <p><b>Upgrade:</b> Added extraction of circular candidate regions and validated the logic on a different bacterial lineage.</p>
+      <p><b>Upgrade:</b> Added extraction of circular candidate regions and validated the logic on a different bacterial lineag.</p>
       <a href="https://github.com/luciedev166/bsubtilis-ori-finder"><b>View project ↗</b></a>
     </td>
   </tr>
