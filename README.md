@@ -155,6 +155,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 <b>Data & Scientific Computing</b><br>
 
+<img src="https://img.shields.io/badge/Biopython-93C5FD?style=for-the-badge&logo=python&logoColor=0F172A" alt="Biopython" />
 <img src="https://img.shields.io/badge/pandas-93C5FD?style=for-the-badge&logo=pandas&logoColor=0F172A" alt="pandas" />
 <img src="https://img.shields.io/badge/NumPy-BFDBFE?style=for-the-badge&logo=numpy&logoColor=0F172A" alt="NumPy" />
 <img src="https://img.shields.io/badge/Streamlit-DBEAFE?style=for-the-badge&logo=streamlit&logoColor=0F172A" alt="Streamlit" />
