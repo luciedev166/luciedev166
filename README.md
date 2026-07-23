@@ -195,4 +195,4 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 ### ⏳ In Progress
 - CS50P: Introduction to Programming with Python — *Harvard University*
 - Finding Hidden Messages in DNA (Bioinformatics I) — *University of California San Diego*
-- Associate Data Scientist in Python — *DataCamp*
+- Associate Data Scientist in Python — *DataCamp* 
