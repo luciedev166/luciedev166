@@ -90,14 +90,11 @@ My projects so far are based on public genomic datasets, but I plan to work on r
 
 ## ˚₊‧ Current Focus ‧₊˚
 
-> 🔭 **Currently exploring and building:**
-
 - **01** &nbsp; Bioinformatics software projects in Python
 - **02** &nbsp; Genomic data processing and biological database integration (ClinVar, gnomAD)
 - **03** &nbsp; Algorithms for sequence analysis: motif discovery, GC skew, origin prediction
-- **04** &nbsp; pandas, NumPy, visualization, and statistical thinking
-- **05** &nbsp; Streamlit applications for scientific data exploration
-- **06** &nbsp; Building toward computational cancer genomics research
+- **04** &nbsp; Streamlit applications for scientific data exploration
+- **05** &nbsp; Statistical foundations for genomics research (DataCamp track)
 
 ---
 
