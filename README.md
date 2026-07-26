@@ -27,6 +27,20 @@ My projects so far are based on public genomic datasets, but I plan to work on r
 ## ✧ Featured Projects
 
 <table>
+    <tr>
+    <td width="45%" valign="top" align="center">
+      <a href="https://github.com/luciedev166/atm-protein-conservation-explorer">
+        <img width="100%" src="https://raw.githubusercontent.com/luciedev166/atm-protein-conservation-explorer/main/figures/screenshot.png" alt="ATM Protein Conservation Explorer"/>
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h3>ATM Protein Conservation Explorer</h3>
+      <p>A Streamlit app mapping <b>ATM missense variants</b> onto a multiple-sequence alignment of 827 vertebrate orthologs to explore evolutionary conservation alongside ClinVar and gnomAD evidence.</p>
+      <p><b>Result:</b> Built a reproducible Biopython + MAFFT pipeline that maps human residue coordinates to alignment columns and scores conservation across 826 comparison species.</p>
+      <a href="https://github.com/luciedev166/atm-protein-conservation-explorer"><b>View project ↗</b></a>
+    </td>
+  </tr>
+  
   <tr>
     <td width="45%" valign="top" align="center">
       <a href="https://github.com/luciedev166/clinvar-gnomad-vus-analyzer">
