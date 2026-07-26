@@ -176,6 +176,8 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 </div>
 
+---
+
 ## ⋆｡° GitHub Activity °｡⋆
 
 <div align="center">
