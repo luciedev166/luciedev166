@@ -157,22 +157,22 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ### Core Stack
 
-<img src="https://img.shields.io/badge/PYTHON-60A5FA?style=for-the-badge&logo=python&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/C-79B1FB?style=for-the-badge&logo=c&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/SQL-93C5FD?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PYTHON-3B82F6?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/C-60A5FA?style=for-the-badge&logo=c&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/SQL-79B1FB?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
 
 <br>
 
 ### Bioinformatics & Data
 
-<img src="https://img.shields.io/badge/BIOPYTHON-60A5FA?style=for-the-badge&logo=python&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/PANDAS-79B1FB?style=for-the-badge&logo=pandas&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/NUMPY-93C5FD?style=for-the-badge&logo=numpy&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/MATPLOTLIB-ACD2FE?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/BIOPYTHON-93C5FD?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PANDAS-9FCBFE?style=for-the-badge&logo=pandas&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/NUMPY-ACD2FE?style=for-the-badge&logo=numpy&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-B8D9FE?style=for-the-badge&logo=python&logoColor=1F2937" />
 <img src="https://img.shields.io/badge/STREAMLIT-C5E0FE?style=for-the-badge&logo=streamlit&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/JUPYTER-DBEAFE?style=for-the-badge&logo=jupyter&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/MAFFT-E0F2FE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NCBI%20DATASETS-BFDBFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JUPYTER-D1E7FE?style=for-the-badge&logo=jupyter&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/MAFFT-DBEAFE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NCBI%20DATASETS-E8F3FE?style=for-the-badge" />
 
 </div>
 ---
