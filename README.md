@@ -157,48 +157,47 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ### Languages
 
-<img src="https://img.shields.io/badge/PYTHON-8BBDF2?style=for-the-badge&logo=python&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/C-B9CFF?style=for-the-badge&logo=c&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/PHP-D8E6F7?style=for-the-badge&logo=php&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/HTML5-D3EAF7?style=for-the-badge&logo=html5&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/CSS3-8EBDF0?style=for-the-badge&logo=css3&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/SQL-C6D9EE?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PYTHON-60A5FA?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/C-79B1FB?style=for-the-badge&logo=c&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PHP-93C5FD?style=for-the-badge&logo=php&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/HTML5-ACD2FE?style=for-the-badge&logo=html5&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/CSS3-C5E0FE?style=for-the-badge&logo=css3&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/SQL-DBEAFE?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
 
-<br><br>
+<br>
 
 ### Data & Scientific Computing
 
-<img src="https://img.shields.io/badge/BIOPYTHON-8BBDF2?style=for-the-badge&logo=python&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/PANDAS-86B5E8?style=for-the-badge&logo=pandas&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/NUMPY-A8C7EC?style=for-the-badge&logo=numpy&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/MATPLOTLIB-BBD7F1?style=for-the-badge&logo=python&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/STREAMLIT-C9DEF2?style=for-the-badge&logo=streamlit&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/JUPYTER-DDECF7?style=for-the-badge&logo=jupyter&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/BIOPYTHON-60A5FA?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PANDAS-79B1FB?style=for-the-badge&logo=pandas&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/NUMPY-93C5FD?style=for-the-badge&logo=numpy&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-ACD2FE?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/STREAMLIT-C5E0FE?style=for-the-badge&logo=streamlit&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/JUPYTER-DBEAFE?style=for-the-badge&logo=jupyter&logoColor=1F2937" />
 
-<br><br>
+<br>
 
 ### Bioinformatics Tools
 
-<img src="https://img.shields.io/badge/MAFFT-8FAFDC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NCBI%20DATASETS-A7C8EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MAFFT-93C5FD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NCBI%20DATASETS-ACD2FE?style=for-the-badge" />
 
-<br><br>
+<br>
 
 ### Genomic Data Sources
 
-<img src="https://img.shields.io/badge/CLINVAR-91BCE8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/gnomAD-B8D3ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLINVAR-93C5FD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/gnomAD-ACD2FE?style=for-the-badge" />
 
-<br><br>
+<br>
 
 ### Applications & Workflow
 
-<img src="https://img.shields.io/badge/GIT-87B8EA?style=for-the-badge&logo=git&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/GITHUB-A8C8E9?style=for-the-badge&logo=github&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/VS%20CODE-D8E7F5?style=for-the-badge&logo=visualstudiocode&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/GIT-79B1FB?style=for-the-badge&logo=git&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/GITHUB-93C5FD?style=for-the-badge&logo=github&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/VS%20CODE-ACD2FE?style=for-the-badge&logo=visualstudiocode&logoColor=1F2937" />
 
 </div>
-
 ---
 
 ## ⋆｡° GitHub Activity °｡⋆
