@@ -155,18 +155,15 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 <div align="center">
 
-### Languages
+### Core Stack
 
 <img src="https://img.shields.io/badge/PYTHON-60A5FA?style=for-the-badge&logo=python&logoColor=1F2937" />
 <img src="https://img.shields.io/badge/C-79B1FB?style=for-the-badge&logo=c&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/PHP-93C5FD?style=for-the-badge&logo=php&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/HTML5-ACD2FE?style=for-the-badge&logo=html5&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/CSS3-C5E0FE?style=for-the-badge&logo=css3&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/SQL-DBEAFE?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/SQL-93C5FD?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
 
 <br>
 
-### Data & Scientific Computing
+### Bioinformatics & Data
 
 <img src="https://img.shields.io/badge/BIOPYTHON-60A5FA?style=for-the-badge&logo=python&logoColor=1F2937" />
 <img src="https://img.shields.io/badge/PANDAS-79B1FB?style=for-the-badge&logo=pandas&logoColor=1F2937" />
@@ -174,28 +171,8 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 <img src="https://img.shields.io/badge/MATPLOTLIB-ACD2FE?style=for-the-badge&logo=python&logoColor=1F2937" />
 <img src="https://img.shields.io/badge/STREAMLIT-C5E0FE?style=for-the-badge&logo=streamlit&logoColor=1F2937" />
 <img src="https://img.shields.io/badge/JUPYTER-DBEAFE?style=for-the-badge&logo=jupyter&logoColor=1F2937" />
-
-<br>
-
-### Bioinformatics Tools
-
-<img src="https://img.shields.io/badge/MAFFT-93C5FD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NCBI%20DATASETS-ACD2FE?style=for-the-badge" />
-
-<br>
-
-### Genomic Data Sources
-
-<img src="https://img.shields.io/badge/CLINVAR-93C5FD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/gnomAD-ACD2FE?style=for-the-badge" />
-
-<br>
-
-### Applications & Workflow
-
-<img src="https://img.shields.io/badge/GIT-79B1FB?style=for-the-badge&logo=git&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/GITHUB-93C5FD?style=for-the-badge&logo=github&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/VS%20CODE-ACD2FE?style=for-the-badge&logo=visualstudiocode&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/MAFFT-E0F2FE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NCBI%20DATASETS-BFDBFE?style=for-the-badge" />
 
 </div>
 ---
