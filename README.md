@@ -157,9 +157,9 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ### Core Stack
 
-<img src="https://img.shields.io/badge/PYTHON-3B82F6?style=for-the-badge&logo=python&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/C-60A5FA?style=for-the-badge&logo=c&logoColor=1F2937" />
-<img src="https://img.shields.io/badge/SQL-79B1FB?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PYTHON-93C5FD?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/C-ACD2FE?style=for-the-badge&logo=c&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/SQL-C5E0FE?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
 
 <br>
 
@@ -175,7 +175,6 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 <img src="https://img.shields.io/badge/NCBI%20DATASETS-E8F3FE?style=for-the-badge" />
 
 </div>
----
 
 ## ⋆｡° GitHub Activity °｡⋆
 
