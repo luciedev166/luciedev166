@@ -155,33 +155,47 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 <div align="center">
 
-<br>
-<b>Languages</b><br>
+### Languages
 
-<img src="https://img.shields.io/badge/Python-93C5FD?style=for-the-badge&logo=python&logoColor=0F172A" alt="Python" />
-<img src="https://img.shields.io/badge/C-BFDBFE?style=for-the-badge&logo=c&logoColor=0F172A" alt="C" />
-<img src="https://img.shields.io/badge/PHP-DBEAFE?style=for-the-badge&logo=php&logoColor=0F172A" alt="PHP" />
-<img src="https://img.shields.io/badge/HTML5-E0F2FE?style=for-the-badge&logo=html5&logoColor=0F172A" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-93C5FD?style=for-the-badge&logo=css3&logoColor=0F172A" alt="CSS3" />
-<img src="https://img.shields.io/badge/SQL-BFDBFE?style=for-the-badge&logo=sqlite&logoColor=0F172A" alt="SQL" />
-
-<br><br>
-
-<b>Data & Scientific Computing</b><br>
-
-<img src="https://img.shields.io/badge/Biopython-93C5FD?style=for-the-badge&logo=python&logoColor=0F172A" alt="Biopython" />
-<img src="https://img.shields.io/badge/pandas-93C5FD?style=for-the-badge&logo=pandas&logoColor=0F172A" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-BFDBFE?style=for-the-badge&logo=numpy&logoColor=0F172A" alt="NumPy" />
-<img src="https://img.shields.io/badge/Streamlit-DBEAFE?style=for-the-badge&logo=streamlit&logoColor=0F172A" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Jupyter-E0F2FE?style=for-the-badge&logo=jupyter&logoColor=0F172A" alt="Jupyter" />
+<img src="https://img.shields.io/badge/PYTHON-8BBDF2?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/C-B9CFF?style=for-the-badge&logo=c&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PHP-D8E6F7?style=for-the-badge&logo=php&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/HTML5-D3EAF7?style=for-the-badge&logo=html5&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/CSS3-8EBDF0?style=for-the-badge&logo=css3&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/SQL-C6D9EE?style=for-the-badge&logo=sqlite&logoColor=1F2937" />
 
 <br><br>
 
-<b>Applications & Workflow</b><br>
+### Data & Scientific Computing
 
-<img src="https://img.shields.io/badge/Git-93C5FD?style=for-the-badge&logo=git&logoColor=0F172A" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-BFDBFE?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-DBEAFE?style=for-the-badge&logo=visual-studio-code&logoColor=0F172A" alt="VS Code" />
+<img src="https://img.shields.io/badge/BIOPYTHON-8BBDF2?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/PANDAS-86B5E8?style=for-the-badge&logo=pandas&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/NUMPY-A8C7EC?style=for-the-badge&logo=numpy&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-BBD7F1?style=for-the-badge&logo=python&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/STREAMLIT-C9DEF2?style=for-the-badge&logo=streamlit&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/JUPYTER-DDECF7?style=for-the-badge&logo=jupyter&logoColor=1F2937" />
+
+<br><br>
+
+### Bioinformatics Tools
+
+<img src="https://img.shields.io/badge/MAFFT-8FAFDC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NCBI%20DATASETS-A7C8EA?style=for-the-badge" />
+
+<br><br>
+
+### Genomic Data Sources
+
+<img src="https://img.shields.io/badge/CLINVAR-91BCE8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/gnomAD-B8D3ED?style=for-the-badge" />
+
+<br><br>
+
+### Applications & Workflow
+
+<img src="https://img.shields.io/badge/GIT-87B8EA?style=for-the-badge&logo=git&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/GITHUB-A8C8E9?style=for-the-badge&logo=github&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/VS%20CODE-D8E7F5?style=for-the-badge&logo=visualstudiocode&logoColor=1F2937" />
 
 </div>
 
