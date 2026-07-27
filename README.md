@@ -194,7 +194,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 - [CS50x: Introduction to Computer Science](https://certificates.cs50.io/d0d129e1-143d-48ae-be1a-e9b1554ff86f.pdf?size=letter) — *Harvard University*
 - [Biology Meets Programming: Bioinformatics for Beginners](https://coursera.org/share/080f07c4b751f2e3c1b6a7b69f1d55a0) — *University of California San Diego*
 
-### ⏳ In Progress
+###⏳ In Progress
 - CS50P: Introduction to Programming with Python — *Harvard University*
 - Finding Hidden Messages in DNA (Bioinformatics I) — *University of California San Diego*
 - Associate Data Scientist in Python — *DataCamp* 
