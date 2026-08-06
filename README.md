@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=%E2%8A%B9%20pat%20%E2%8A%B9&fontSize=55&fontColor=E0F2FE&fontAlignY=32&desc=Computer%20Science%20%2B%20Genomics&descSize=16&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=⊹%20p%20a%20t%20⊹&fontSize=55&fontColor=E0F2FE&fontAlignY=32&desc=Computer%20Science%20%2B%20Genomics&descSize=16&descAlignY=62" />
 <br>
 <em>˚₊‧ ✧&nbsp; computer science student • engineering data pipelines for genomics • computational biology &nbsp;✧ ‧₊˚</em>
 <br><br>
@@ -11,7 +11,7 @@
  
 ---
 
-## ✧ About Me
+## ✧ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 I'm a 2nd Year Computer Science undergraduate focusing on bioinformatics and data science while working towards computational cancer genomics research (˶ᵔ ᵕ ᵔ˶)و
 
@@ -19,7 +19,7 @@ My projects so far are based on public genomic datasets, but I plan to work on r
 
 ---
 
-## ✧ Featured Projects
+## ✧ 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 <table>
     <tr>
@@ -83,7 +83,7 @@ My projects so far are based on public genomic datasets, but I plan to work on r
 
 ---
 
-## ˚₊‧ Current Focus ‧₊˚
+## ˚₊‧ 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬 ‧₊˚
 
 - **01** &nbsp; Bioinformatics software projects in Python
 - **02** &nbsp; Genomic data processing and biological database integration (ClinVar, gnomAD)
@@ -93,7 +93,7 @@ My projects so far are based on public genomic datasets, but I plan to work on r
 
 ---
 
-## ✧ Learning Repositories
+## ✧ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬
 
 <table>
 <tr>
@@ -143,7 +143,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ---
 
-## ˚₊‧ Tools & Technologies ‧₊˚
+## ˚₊‧ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 ‧₊˚
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ---
 
-## ⋆｡° GitHub Activity °｡⋆
+## ⋆｡° 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 °｡⋆
 
 <div align="center">
 
@@ -183,7 +183,7 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 
 ---
 
-## ˚₊‧ Courses & Certifications ‧₊˚
+## ˚₊‧ 𝐂𝐨𝐮𝐫𝐬𝐞𝐬 & 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 ‧₊˚
 
 ### 🏆 Completed
 - [CS50x: Introduction to Computer Science](https://certificates.cs50.io/d0d129e1-143d-48ae-be1a-e9b1554ff86f.pdf?size=letter) — *Harvard University*
@@ -192,4 +192,4 @@ Core computer science foundations developed through Harvard's intensive CS50 pro
 ###⏳ In Progress
 - CS50P: Introduction to Programming with Python — *Harvard University*
 - Finding Hidden Messages in DNA (Bioinformatics I) — *University of California San Diego*
-- Associate Data Scientist in Python — *DataCamp* 
+- Associate Data Scientist in Python — *DataCamp*
