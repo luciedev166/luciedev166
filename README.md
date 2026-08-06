@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=pat&fontSize=60&fontColor=E0F2FE&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=pat&fontSize=60&fontColor=E0F2FE&fontAlignY=50&desc=Computer%20Science%20%2B%20Genomics" />
 
 <pre>
 ˚₊‧ ✧  computer science student • engineering data pipelines for genomics • computational biology  ✧ ‧₊˚ 
