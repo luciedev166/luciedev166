@@ -2,15 +2,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:93C5FD&height=160&section=header&text=%E2%98%86%20pat%20%E2%98%86&fontSize=55&fontColor=E0F2FE&fontAlignY=32&desc=Computer%20Science%20%2B%20Genomics&descSize=16&descAlignY=62" />
 
-<pre>
-˚₊‧ ✧  computer science student • engineering data pipelines for genomics • computational biology  ✧ ‧₊˚ 
-</pre>
+<br><br>
 
+<p align="center">
+  <em>˚₊‧ ✧&nbsp; computer science student • engineering data pipelines for genomics • computational biology &nbsp;✧ ‧₊˚</em>
+</p>
 
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A)
-![Python](https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=1E3A8A)
-![Data Science](https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=0F172A)
-![Streamlit](https://img.shields.io/badge/Streamlit-E0F2FE?style=for-the-badge&labelColor=0F172A&logo=streamlit&logoColor=1E3A8A)
+<br>
+
+<img src="https://img.shields.io/badge/Bioinformatics-93C5FD?style=for-the-badge&labelColor=0F172A" alt="Bioinformatics" />
+<img src="https://img.shields.io/badge/Python-BFDBFE?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=1E3A8A" alt="Python" />
+<img src="https://img.shields.io/badge/Data%20Science-DBEAFE?style=for-the-badge&labelColor=0F172A" alt="Data Science" />
+<img src="https://img.shields.io/badge/Streamlit-E0F2FE?style=for-the-badge&labelColor=0F172A&logo=streamlit&logoColor=1E3A8A" alt="Streamlit" />
 
 </div>
  
